@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warm-summer-rain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Warm Summer Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-summer-rain/) |
+| **Get License** | [Get a Licensing Quote for Warm Summer Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-summer-rain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows falling cross your face
+> A quiet fire filling up the space
+> Your fingertips are pulling me so near
+> There is no place I'd rather be than here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
